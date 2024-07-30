@@ -27,11 +27,8 @@ function App() {
   );
   return (
     <>
-    
       <RouterProvider
       router={router} />
-      <h1>hello tamim</h1>
-    
     </>
   )
 }
