@@ -1,6 +1,5 @@
 import React from 'react'
 import * as Yup from 'yup';
-import { Formik } from 'formik'
 import { useFormik } from 'formik';
 import { BsMeta } from 'react-icons/bs'
 import { FcGoogle } from 'react-icons/fc'
